@@ -20,6 +20,8 @@ I am exploring problems on hackerrank and will keep updating the solutions here 
 15. Complete the kaprekarNumbers function below.
 16. Complete the beautifulTriplets function below.
 17. Complete the minimumDistances function below.
+18. Complete the howManyGames function below.
+19. Complete the chocolateFeast function below.
 
 ## Medium
 1. Complete the formingMagicSquare function below.
@@ -28,5 +30,6 @@ I am exploring problems on hackerrank and will keep updating the solutions here 
 4. Complete the 'nonDivisibleSubset' function below.
 5. Complete the encryption function below.
 6. Complete the biggerIsGreater function below.
+7. Complete the timeInWords function below.
 
 Started: 10-Oct-2020
