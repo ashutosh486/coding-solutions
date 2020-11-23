@@ -31,5 +31,6 @@ I am exploring problems on hackerrank and will keep updating the solutions here 
 5. Complete the encryption function below.
 6. Complete the biggerIsGreater function below.
 7. Complete the timeInWords function below.
+8. Complete the organizingContainers function below.
 
 Started: 10-Oct-2020
