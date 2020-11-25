@@ -32,5 +32,7 @@ I am exploring problems on hackerrank and will keep updating the solutions here 
 6. Complete the biggerIsGreater function below.
 7. Complete the timeInWords function below.
 8. Complete the organizingContainers function below.
+9. Complete the surfaceArea function below.
+10. Complete the absolutePermutation function below.
 
 Started: 10-Oct-2020
