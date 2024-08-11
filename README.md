@@ -1,8 +1,10 @@
 # HackerRank Solutions
 
-I am exploring problems on hackerrank and will keep updating the solutions here for reference purpose.
-# Solutions Added For:
-## Easy
+I am exploring problems on HackerRank and HackerEarth and will keep updating the solutions here for reference purposes.
+## Solutions for HackerEarth:
+1. Daisy and the Password
+
+## Solutions For HackerRank:
 1. Complete the countApplesAndOranges function below.
 2. Complete the kangaroo function below.
 3. Complete the 'getTotalX' function below.
@@ -22,17 +24,15 @@ I am exploring problems on hackerrank and will keep updating the solutions here 
 17. Complete the minimumDistances function below.
 18. Complete the howManyGames function below.
 19. Complete the chocolateFeast function below.
-
-## Medium
-1. Complete the formingMagicSquare function below.
-2. Complete the extraLongFactorials function below.
-3. Complete the climbingLeaderboard function below.
-4. Complete the 'nonDivisibleSubset' function below.
-5. Complete the encryption function below.
-6. Complete the biggerIsGreater function below.
-7. Complete the timeInWords function below.
-8. Complete the organizingContainers function below.
-9. Complete the surfaceArea function below.
-10. Complete the absolutePermutation function below.
+20. Complete the formingMagicSquare function below.
+21. Complete the extraLongFactorials function below.
+22. Complete the climbingLeaderboard function below.
+23. Complete the 'nonDivisibleSubset' function below.
+24. Complete the encryption function below.
+25. Complete the biggerIsGreater function below.
+26. Complete the timeInWords function below.
+27. Complete the organizingContainers function below.
+28. Complete the surfaceArea function below.
+29. Complete the absolutePermutation function below.
 
 Started: 10-Oct-2020
