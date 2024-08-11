@@ -6,6 +6,7 @@ I am exploring problems on HackerRank and HackerEarth and will keep updating the
 2. Monk and Rotations
 3. Basic Probability Models and Rules
 4. Bayes’ rules, Conditional probability, Chain rule
+5. Favourite Singer
 
 ## Solutions For HackerRank:
 1. Complete the countApplesAndOranges function below.
