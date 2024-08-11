@@ -5,6 +5,7 @@ I am exploring problems on HackerRank and HackerEarth and will keep updating the
 1. Daisy and the Password
 2. Monk and Rotations
 3. Basic Probability Models and Rules
+4. Bayes’ rules, Conditional probability, Chain rule
 
 ## Solutions For HackerRank:
 1. Complete the countApplesAndOranges function below.
