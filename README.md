@@ -3,6 +3,7 @@
 I am exploring problems on HackerRank and HackerEarth and will keep updating the solutions here for reference purposes.
 ## Solutions for HackerEarth:
 1. Daisy and the Password
+2. Monk and Rotations
 
 ## Solutions For HackerRank:
 1. Complete the countApplesAndOranges function below.
