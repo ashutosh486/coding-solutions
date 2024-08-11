@@ -4,6 +4,7 @@ I am exploring problems on HackerRank and HackerEarth and will keep updating the
 ## Solutions for HackerEarth:
 1. Daisy and the Password
 2. Monk and Rotations
+3. Basic Probability Models and Rules
 
 ## Solutions For HackerRank:
 1. Complete the countApplesAndOranges function below.
