@@ -17,6 +17,7 @@ I am exploring problems on HackerRank and HackerEarth and will keep updating the
 13. Split houses
 14. Cost of balloons
 15. Seven-Segment Display
+16. Ali and Helping innocent people
 
 ## Solutions For HackerRank:
 1. Complete the countApplesAndOranges function below.
