@@ -16,6 +16,7 @@ I am exploring problems on HackerRank and HackerEarth and will keep updating the
 12. Maximum borders
 13. Split houses
 14. Cost of balloons
+15. Seven-Segment Display
 
 ## Solutions For HackerRank:
 1. Complete the countApplesAndOranges function below.
