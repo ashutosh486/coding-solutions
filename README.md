@@ -7,6 +7,13 @@ I am exploring problems on HackerRank and HackerEarth and will keep updating the
 3. Basic Probability Models and Rules
 4. Bayes’ rules, Conditional probability, Chain rule
 5. Favourite Singer
+6. Number of steps
+7. Best Index
+8. Factorial
+9. Palindromic String
+10. Sum of Array
+11. Zoos
+12. Maximum borders
 
 ## Solutions For HackerRank:
 1. Complete the countApplesAndOranges function below.
